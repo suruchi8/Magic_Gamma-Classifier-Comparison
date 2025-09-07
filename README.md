@@ -17,7 +17,7 @@ The following algorithms are trained and evaluated:
 - **Support Vector Machine (SVM)**
 - **Logistic Regression**
 - **Naive Bayes**
-- **Neural Network (TensorFlow / Keras)**
+- **Neural Network (TensorFlow)**
   
 ## 🛠️ Workflow
 1. **Data Preprocessing** – class conversion, feature scaling
